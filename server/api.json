@@ -1,0 +1,590 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "category_id": 1,
+      "name": "MLB - Áo thun thể thao unisex modern",
+      "image": "/img/ao7.webp",
+      "price": 1320000,
+      "discount": 30,
+      "colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Cotton",
+        "Polyester"
+      ],
+      "style": "Cổ tròn, Thể thao",
+      "detailed_images": [
+        "/img/ao1ct1.webp",
+        "/img/ao1ct2.webp",
+        "/img/ao1ct3.webp",
+        "/img/ao1ct4.webp",
+        "/img/ao1ct5.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "category_id": 1,
+      "name": "MLB - Áo thun cá tính unisex phong cách mới",
+      "image": "/img/ao6.webp",
+      "price": 1200000,
+      "discount": null,
+      "colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Cotton",
+        "Spandex"
+      ],
+      "style": "Cá tính, Hiện đại",
+      "detailed_images": [
+        "/img/ao2ct1.webp",
+        "/img/ao2ct2.webp"
+      ]
+    },
+    {
+      "id": "3",
+      "category_id": 1,
+      "name": "MLB - Áo thun cổ tròn unisex thoải mái",
+      "image": "/img/ao3.webp",
+      "price": 1450000,
+      "discount": 40,
+      "colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "style": "Thoải mái, Cổ tròn",
+      "detailed_images": [
+        "/img/ao3ct1.webp",
+        "/img/ao3ct2.webp",
+        "/img/ao3ct3.webp",
+        "/img/ao3ct4.webp",
+        "/img/ao3ct5.webp"
+      ]
+    },
+    {
+      "id": "4",
+      "category_id": 1,
+      "name": "MLB - Áo thun unisex tay ngắn tiện dụng",
+      "image": "/img/ao4.webp",
+      "price": 1080000,
+      "discount": null,
+      "colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Polyester"
+      ],
+      "style": "Tay ngắn, Đơn giản",
+      "detailed_images": [
+        "/img/ao4ct1.webp",
+        "/img/ao4ct2.webp",
+        "/img/ao4ct3.webp",
+        "/img/ao4ct4.webp",
+        "/img/ao4ct5.webp"
+      ]
+    },
+    {
+      "id": "5",
+      "category_id": 1,
+      "name": "MLB - Quần thể thao unisex ống rộng",
+      "image": "/img/quan6.webp",
+      "price": 1250000,
+      "discount": 35,
+      "colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "materials": [
+        "Cotton",
+        "Spandex"
+      ],
+      "style": "Ống rộng, Thể thao",
+      "detailed_images": [
+        "/img/quan5ct1.webp",
+        "/img/quan5ct2.webp",
+        "/img/quan5ct3.webp",
+        "/img/quan5ct4.webp",
+        "/img/quan5ct5.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "category_id": 1,
+      "name": "MLB - Quần dài unisex chất liệu thoáng mát",
+      "image": "/img/quan7.webp",
+      "price": 1100000,
+      "discount": null,
+      "colors": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "style": "Thoáng mát, Dài",
+      "detailed_images": [
+        "/img/quan6ct1.webp",
+        "/img/quan6ct2.webp",
+        "/img/quan6ct3.webp",
+        "/img/quan6ct4.webp",
+        "/img/quan6ct5.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "category_id": 1,
+      "name": "MLB - Quần thể thao unisex kiểu dáng trẻ trung",
+      "image": "/img/quan8.webp",
+      "price": 1300000,
+      "discount": 34,
+      "colors": [
+        "#000000",
+        "#e2d7cc"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "materials": [
+        "Polyester"
+      ],
+      "style": "Trẻ trung, Thể thao",
+      "detailed_images": [
+        "/img/quan7ct1.webp",
+        "/img/quan7ct2.webp",
+        "/img/quan7ct3.webp",
+        "/img/quan7ct4.webp",
+        "/img/quan7ct5.webp"
+      ]
+    },
+    {
+      "id": "8",
+      "category_id": 1,
+      "name": "MLB - Quần thể thao unisex",
+      "image": "/img/quan5.webp",
+      "price": 850000,
+      "discount": 32,
+      "colors": [
+        "#000000"
+      ],
+      "sizes": [
+        "S",
+        "XS"
+      ],
+      "materials": [
+        "Cotton",
+        "Polyester"
+      ],
+      "style": "Hiện đại, Thời trang",
+      "detailed_images": [
+        "/img/quan5.webp",
+        "/img/quan8ct1.webp"
+      ]
+    },
+    {
+      "id": "9",
+      "category_id": 3,
+      "name": "MLB - Mũ bucket phong cách retro",
+      "image": "/img/non2.webp",
+      "price": 720000,
+      "discount": null,
+      "colors": [
+        "#000000",
+        "#FFFFFF",
+        "#ddafb9"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Vải dù"
+      ],
+      "style": "Retro, Thoải mái",
+      "detailed_images": [
+        "/img/non9ct1.webp",
+        "/img/non9ct2.webp",
+        "/img/non9ct3.webp",
+        "/img/non9ct4.webp",
+        "/img/non9ct5.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "category_id": 4,
+      "name": "MLB - Giày sneaker unisex năng động",
+      "image": "/img/giay1.webp",
+      "price": 2300000,
+      "discount": 20,
+      "colors": [
+        "#FFFFFF"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "materials": [
+        "Da nhân tạo"
+      ],
+      "style": "Năng động, Thời trang",
+      "detailed_images": [
+        "/img/giay10ct1.webp",
+        "/img/giay10ct2.webp",
+        "/img/giay10ct3.webp",
+        "/img/giay10ct4.webp",
+        "/img/giay10ct5.webp"
+      ]
+    },
+    {
+      "id": "11",
+      "category_id": 4,
+      "name": "MLB - Giày quai ngang unisex thoáng mát",
+      "image": "/img/giay4.webp",
+      "price": 900000,
+      "discount": 25,
+      "colors": [
+        "#68c2dc",
+        "#000000"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39"
+      ],
+      "materials": [
+        "Vãi dù"
+      ],
+      "style": "Thoáng mát, Tiện dụng",
+      "detailed_images": [
+        "/img/giay11ct1.webp",
+        "/img/giay11ct2.webp",
+        "/img/giay11ct3.webp",
+        "/img/giay11ct4.webp",
+        "/img/giay11ct5.webp"
+      ]
+    },
+    {
+      "id": "12",
+      "category_id": 2,
+      "name": "MLB - Balo unisex thời trang hiện đại",
+      "image": "/img/tui4.webp",
+      "price": 1800000,
+      "discount": 20,
+      "colors": [
+        "#14213c",
+        "#dccfbf",
+        "#000000",
+        "#3a5685"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Canvas"
+      ],
+      "style": "Hiện đại, Tiện dụng",
+      "detailed_images": [
+        "/img/tui12ct1.webp",
+        "/img/tui12ct2.webp",
+        "/img/tui12ct3.webp",
+        "/img/tui12ct4.jpg",
+        "/img/tui12ct5.jpg"
+      ]
+    },
+    {
+      "id": "13",
+      "category_id": 4,
+      "name": "MLB - Giày MLB slip-on phong cách",
+      "image": "/img/giay3.webp",
+      "price": 1800000,
+      "discount": 15,
+      "colors": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "materials": [
+        "Da tổng hợp"
+      ],
+      "style": "Hiện đại, Tiện dụng",
+      "detailed_images": [
+        "/img/giay13ct1.webp",
+        "/img/giay13ct2.webp",
+        "/img/giay13ct3.webp",
+        "/img/giay13ct4.webp",
+        "/img/giay13ct5.webp"
+      ]
+    },
+    {
+      "id": "14",
+      "category_id": 4,
+      "name": "MLB - Giày MLB chunky sole",
+      "image": "/img/giay2.webp",
+      "price": 2300000,
+      "discount": 18,
+      "colors": [
+        "#FFFFFF"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "materials": [
+        "Vải"
+      ],
+      "style": "Năng động, Cá tính",
+      "detailed_images": [
+        "/img/giay14ct1.webp",
+        "/img/giay14ct2.webp",
+        "/img/giay14ct3.webp",
+        "/img/giay14ct4.webp",
+        "/img/giay14ct5.webp"
+      ]
+    },
+    {
+      "id": "15",
+      "category_id": 2,
+      "name": "MLB - Túi đeo chéo MLB năng động",
+      "image": "/img/tui1.webp",
+      "price": 1500000,
+      "discount": 17,
+      "colors": [
+        "#000000",
+        "#dccfbf",
+        "#3a5685",
+        "#121d41"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "style": "Tiện dụng, Trẻ trung",
+      "detailed_images": [
+        "/img/tui15ct1.webp",
+        "/img/tui15ct2.webp",
+        "/img/tui15ct3.webp",
+        "/img/tui15ct4.jpg",
+        "/img/tui15ct5.webp"
+      ]
+    },
+    {
+      "id": "16",
+      "category_id": 2,
+      "name": "MLB - Túi tote MLB thời trang",
+      "image": "/img/tui3.webp",
+      "price": 1200000,
+      "discount": null,
+      "colors": [
+        "#dccfbf",
+        "#121d41",
+        "#3a5685",
+        "#000000"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "style": "Thời trang, Tiện dụng",
+      "detailed_images": [
+        "/img/tui16ct1.webp",
+        "/img/tui16ct2.webp",
+        "/img/tui16ct3.jpg",
+        "/img/tui16ct4.jpg",
+        "/img/tui16ct5.jpg"
+      ]
+    },
+    {
+      "id": "17",
+      "category_id": 2,
+      "name": "MLB - Túi MLB unisex nam",
+      "image": "/img/tui2.webp",
+      "price": 950000,
+      "discount": null,
+      "colors": [
+        "#3a5685",
+        "#dccfbf",
+        "#121d41",
+        "#000000"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Kim loại"
+      ],
+      "style": "Phong cách, Cá tính",
+      "detailed_images": [
+        "/img/tui17ct1.webp",
+        "/img/tui17ct2.webp",
+        "/img/tui17ct3.webp",
+        "/img/tui17ct4.jpg",
+        "/img/tui17ct5.jpg"
+      ]
+    },
+    {
+      "id": "20",
+      "category_id": 3,
+      "name": "MLB - Nón MLB cá tính",
+      "image": "/img/non1.jpg",
+      "price": 1200000,
+      "discount": 20,
+      "colors": [
+        "#deafb9",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Cotton"
+      ],
+      "style": "Thời trang, Cá tính",
+      "detailed_images": [
+        "/img/non20ct1.webp",
+        "/img/non20ct2.webp",
+        "/img/non20ct3.webp",
+        "/img/non20ct4.webp",
+        "/img/non20ct5.jpg"
+      ]
+    },
+    {
+      "id": "21",
+      "category_id": 3,
+      "name": "MLB - Nón MLB trẻ trung hiện đại",
+      "image": "/img/non3.webp",
+      "price": 1200000,
+      "discount": 20,
+      "colors": [
+        "#FFFFFF",
+        "#000000",
+        "#deafb9"
+      ],
+      "sizes": [
+        "F"
+      ],
+      "materials": [
+        "Vãi mềm"
+      ],
+      "style": "Thời trang, Cá tính",
+      "detailed_images": [
+        "/img/non21ct1.webp",
+        "/img/non21ct2.webp",
+        "/img/non21ct3.webp",
+        "/img/non21ct4.webp",
+        "/img/non21ct5.webp"
+      ]
+    },
+    {
+      "category_id": 3,
+      "name": "MLB - Nón MLB cá tính năng động1",
+      "price": 1200000,
+      "image": "/img/non4.jpg",
+      "discount": 20,
+      "id": "22"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Quần áo"
+    },
+    {
+      "id": "2",
+      "name": "Túi Ví"
+    },
+    {
+      "id": "3",
+      "name": "Mũ Nón"
+    },
+    {
+      "id": "4",
+      "name": "Giày dép"
+    }
+  ],
+  "users": [
+    {
+      "username": "user12",
+      "password": "1234",
+      "email": "user1@gmail.com",
+      "role": "0",
+      "id": "d930"
+    },
+    {
+      "username": "user2",
+      "email": "user2@gmail.com",
+      "password": "1234",
+      "id": "0c50",
+      "role": "1"
+    },
+    {
+      "id": "ab68",
+      "username": "user6",
+      "email": "user6@gmail.com",
+      "password": "1234",
+      "role": "0"
+    },
+    {
+      "id": "4a75",
+      "username": "user7",
+      "email": "user7@gmail.com",
+      "password": "1234",
+      "role": "0"
+    }
+  ]
+}
